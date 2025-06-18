@@ -41,4 +41,4 @@ The guide is authored and maintained by Ghost, and is not affiliated with or end
 This project is provided as-is for educational purposes. See the [LICENSE](LICENSE) file for details.
 
 ---
-[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-222222?style=plastic&logo=github)](#top)
+[![Back to Top](https://img.shields.io/badge/Back%20to%20Top-%E2%86%A9-blue?style=plastic&logo=github)](#discordfg)
